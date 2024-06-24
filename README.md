@@ -9,6 +9,7 @@ The dataset comprises ultrasound images classified into two categories: infected
     <img src="https://github.com/Lakshmisri01/-ViT-PCOS-Vision-Transformer-for-Automated-Polycystic-Ovary-Syndrome-Detection/assets/114591852/44b87cec-6fcc-4186-9399-2428577a903b" alt="Image 2" width="33%">
 </p>
 
+[PCOS Dataset on Kaggle](https://www.kaggle.com/datasets/lakshmisri1/pcos-clean-1?resource=download)
 
 **Note** - The corrupted files present in the dataset were manually verified and removed before being fed into the ViT Model.
 
